@@ -1,0 +1,6 @@
+da81c87335faf5ae4f7aae36978a602f *DESCRIPTION
+313fc2e4ac54fafb93935375e0f62736 *NAMESPACE
+2b6a0d4fb68133d98f19e433b9b2b928 *R/ngramrr.R
+8bcf810c42cd08334d68d3887da3c994 *man/ngramrr.Rd
+b102186b40e25fca893f830453130c7f *tests/testthat.R
+7136018f46a8f29708a600c7b2f00aa2 *tests/testthat/test_integration.R
