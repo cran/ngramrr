@@ -1,6 +1,10 @@
-da81c87335faf5ae4f7aae36978a602f *DESCRIPTION
-313fc2e4ac54fafb93935375e0f62736 *NAMESPACE
-2b6a0d4fb68133d98f19e433b9b2b928 *R/ngramrr.R
-8bcf810c42cd08334d68d3887da3c994 *man/ngramrr.Rd
+2cd8c0815b701683aa3410440d5e331c *DESCRIPTION
+b8917ad1892ccd959a50e6290803d1f3 *NAMESPACE
+ffc51402c1c586427927b78894bd65ef *R/dtm2.R
+757bbb4fa54ec67f2f1b05c202ccf1de *R/ngramrr.R
+843da21ec51d4a30527f78d638243c8c *README.md
+4e328f09d527bf5d36adac3ef27d9037 *man/dtmwrappers.Rd
+e24440ec6acc38a890526844479af77b *man/ngramrr.Rd
 b102186b40e25fca893f830453130c7f *tests/testthat.R
+3eb2d1a660f952b37b5320ba26bc7fa2 *tests/testthat/test_charngram.R
 7136018f46a8f29708a600c7b2f00aa2 *tests/testthat/test_integration.R
